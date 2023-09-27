@@ -1,0 +1,8 @@
+{
+    "scripts": {
+      "client": "cd frontend && npm start",
+      "server": "cd backend && nodemon index.js",
+      "start": "npm run server & npm run client"
+    }
+  }
+  

@@ -1,0 +1,105 @@
+{
+    "naruto": [
+      {
+        "name": "Naruto Uzumaki",
+        "firstName": "Naruto",
+        "age": 16,
+        "height": "166 cm",
+        "gender": "Male",
+        "mainJutsu": "Rasengan",
+        "chakraElements": ["Wind"],
+        "image": "/images/naruto.png"
+      },
+      {
+        "name": "Sasuke Uchiha",
+        "firstName": "Sasuke",
+        "age": 16,
+        "height": "168 cm",
+        "gender": "Male",
+        "mainJutsu": "Chidori",
+        "chakraElements": ["Fire", "Lightning"],
+        "image": "/images/sasuke.jpg"
+      },
+      {
+        "name": "Sakura Haruno",
+        "firstName": "Sakura",
+        "age": 16,
+        "height": "165 cm",
+        "gender": "Female",
+        "mainJutsu": "Superhuman Strength",
+        "chakraElements": ["Earth"],
+        "image": "/images/sakura.jpg"
+      },
+      {
+        "name": "Kakashi Hatake",
+        "firstName": "Kakashi",
+        "age": 30,
+        "height": "181 cm",
+        "gender": "Male",
+        "mainJutsu": "Chidori",
+        "chakraElements": ["Lightning", "Earth", "Water", "Fire"],
+        "image": "/images/kakashi.jpg"
+      },
+      {
+        "name": "Hinata Hyuga",
+        "firstName": "Hinata",
+        "age": 16,
+        "height": "163 cm",
+        "gender": "Female",
+        "mainJutsu": "Byakugan",
+        "chakraElements": ["Air"],
+        "image": "/images/hinata.png"
+      },
+      {
+        "name": "Shikamaru Nara",
+        "firstName": "Shikamaru",
+        "age": 16,
+        "height": "162 cm",
+        "gender": "Male",
+        "mainJutsu": "Shadow Manipulation",
+        "chakraElements": ["Earth"],
+        "image": "/images/shikamaru.jpg"
+      },
+      {
+        "name": "Neji Hyuga",
+        "firstName": "Neji",
+        "age": 17,
+        "height": "172 cm",
+        "gender": "Male",
+        "mainJutsu": "Byakugan",
+        "chakraElements": ["Air"],
+        "image": "/images/neji.jpg"
+      },
+      {
+        "name": "Rock Lee",
+        "firstName": "Lee",
+        "age": 17,
+        "height": "177 cm",
+        "gender": "Male",
+        "mainJutsu": "Taijutsu",
+        "chakraElements": [],
+        "image": "/images/lee.png"
+      },
+      {
+        "name": "Tenten",
+        "firstName": "Tenten",
+        "age": 16,
+        "height": "164 cm",
+        "gender": "Female",
+        "mainJutsu": "Ninja Tool Manipulation",
+        "chakraElements": ["Wind"],
+        "image": "/images/tenten.png"
+      },
+      {
+        "name": "Gaara",
+        "firstName": "Gaara",
+        "age": 16,
+        "height": "166 cm",
+        "gender": "Male",
+        "mainJutsu": "Sand Manipulation",
+        "chakraElements": ["Wind", "Earth"],
+        "image": "/images/gaara.jpg"
+      }
+    ]
+  }
+  

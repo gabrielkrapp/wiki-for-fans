@@ -1,8 +1,16 @@
 {
-    "scripts": {
-      "client": "cd frontend && npm start",
-      "server": "cd backend && nodemon index.js",
-      "start": "npm run server & npm run client"
-    }
+  "scripts": {
+    "client": "cd frontend && npm run start",
+    "server": "cd backend && nodemon src/index.ts",
+    "start": "concurrently \"npm run server\" \"npm run client\""
+  },
+  "devDependencies": {
+    "@types/node": "^20.7.1",
+    "concurrently": "^8.2.1"
+  },
+  "dependencies": {
+    "@types/axios": "^0.14.0",
+    "axios": "^1.5.1",
+    "cors": "^2.8.5"
   }
-  
+}

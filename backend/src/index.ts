@@ -25,13 +25,14 @@ app.use(cors());
 app.get('/naruto', (req, res) => {
   const characters = data.naruto.map(char => ({
     name: char.name,
+    firstName: char.firstName,
     image: char.image
   }));
   res.json(characters);
 });
 
-app.get('/naruto/:characterName', (req, res) => {
-  const character = data.naruto.find(char => char.firstName.toLowerCase() === req.params.characterName.toLowerCase());
+app.get('/character/:characterFirstName', (req, res) => {
+  const character = data.naruto.find(char => char.firstName.toLowerCase() === req.params.characterFirstName.toLowerCase());
   
   if(character) {
     res.json(character);

@@ -9,7 +9,7 @@ const Header: React.FC<Props> = ({ onSearch }) => {
 
   useEffect(() => {
     onSearch(searchTerm);
-  }, [searchTerm, onSearch]);
+  }, [searchTerm]);
   
   return (
     <header className="bg-gray-100 p-5 shadow-md">

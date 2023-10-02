@@ -46,7 +46,7 @@ const CharacterDetails: React.FC = () => {
     <div className="container mx-auto p-4 bg-gray-100 min-h-screen">
       <div className="mb-6">
         <Link to="/" className="bg-blue-500 hover:bg-blue-600 text-white py-2 px-4 rounded shadow transition duration-200">
-          🔙 Voltar
+          🔙 Back
         </Link>
       </div>
       <div className="max-w-2xl mx-auto bg-white p-8 rounded-lg shadow-md">

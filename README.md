@@ -64,6 +64,9 @@ Upon accessing the application, you'll be greeted with a user-friendly interface
 - **Search:** At the top of the page, there's a search bar. Here, you can type in a character's name to quickly filter the list.
 
 ![image](https://github.com/gabrielkrapp/wiki-for-fans/assets/109620152/1d4b834d-6455-4462-9e62-f563dddde3ed)
+
+![image](https://github.com/gabrielkrapp/wiki-for-fans/assets/109620152/a5def645-2fe5-42f3-b2fb-6d78167c78a7)
+
   
 - **Character Details:** By clicking on a character, you'll be redirected to a page with more extensive details about that specific character, such as age, height, gender, main techniques, and chakra elements.
 
